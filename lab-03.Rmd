@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 - Nobel laureates"
-author: "Tymek,Aleksey,Fedor,Danny"
+author: "Tymek,AlekseyMonka,Fedor,Danny"
 date: "`r Sys.Date()`"
 output: html_document
 ---
